@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Zohaib!<br><br>My main focus is developing mobile apps for clients using Flutter 💙.<br>I'm passionate about creating beautiful and efficient cross-platform applications. <br>Currently, I'm eager to learn more about backend development 🌐.<br><br>Interests:<br>- Learning Flutter and Figma<br>- Sharing my experience and knowledge through articles 📝<br><br>Currently Learning:<br>- Nodejs<br>- Firebase<br>- Figma<br>- UI/UX
+Hi 👋, I'm Zohaib!<br><br>My main focus is developing mobile apps for clients using Flutter 💙.<br>I'm passionate about creating beautiful and efficient cross-platform applications. <br>Currently, I'm eager to learn more about backend development 🌐.<br><br>Interests:<br>- Learning Flutter/Firebase and Nodejs<br>- Sharing my experience and knowledge through articles 📝<br><br>Currently Learning:<br>- Nodejs<br>- Firebase<br>- Figma<br>- UI/UX
 
 
 ## 🌐 Socials:
